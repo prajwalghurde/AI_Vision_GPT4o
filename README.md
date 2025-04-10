@@ -112,10 +112,3 @@ While it's hardware-backed, this project demonstrates **cloud-centric software d
 
 This project is open-source and MIT-licensed.
 
----
-
-## 🙋‍♂️ Author
-
-**Prajwal** — passionate about building smart software-driven solutions using embedded tech + modern AI.
-
-Feel free to connect or contribute! 😊
